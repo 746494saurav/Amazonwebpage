@@ -1,0 +1,56 @@
+nav div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    color: white;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+body {
+    background-image: url("img-4.jpg");
+}fieldset{
+    text-align: right;
+    width: 300px;
+    margin-top: 100px;
+
+}
+input{
+    border-radius: 10px solid white;
+    width: 300px;
+    height: 50px;
+    
+}
+h1{
+    color: white;
+}
+#back{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+P{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+p:hover{
+    color:black;
+    background-color: white;
+}
+#hight{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+footer{
+    background-color: darkgray;
+}
+h4{
+    text-align: center ;
+    color: white;
+    font-size: 20px;
+}
+h5{
+    width: 200px;
+    height: 200px;
+}
